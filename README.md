@@ -2,7 +2,7 @@
 https://github.com/doomemacs/doomemacs
 
 # todo모드 개 좋다.
-- org-todo(done, 진행상황 :org-todo)
+- `org-todo`(done, 진행상황 `:org-todo`)
 
 # 인스톨하는거 여기에 정리
 - https://github.com/YoungHaKim7/linux_command/tree/main/16_openSUSE_Tumbleweed/04_emacs
