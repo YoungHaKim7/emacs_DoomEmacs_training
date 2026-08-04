@@ -1,6 +1,13 @@
 # emacs_doom_emacs_training
 https://github.com/doomemacs/doomemacs
 
+# todo모드 개 좋다.
+- org-todo(done, 진행상황 :org-todo)
+
+# 인스톨하는거 여기에 정리
+- https://github.com/YoungHaKim7/linux_command/tree/main/16_openSUSE_Tumbleweed/04_emacs
+- openSUSE는 이걸로 Install
+  - https://github.com/doomemacs/core/blob/master/docs/getting_started.org#install-doom-alongside-other-configs-with-chemacs2
 
 # macOS 설치 (M1 기준)
 - [210209_Getting Started with Emacs & Doom in 2021 (on Apple Silicon M1) · Emacs Doomcasts 27 | Zaiste Programming](https://youtu.be/eyYxuIGF8-g?si=PUupaRbMohU7UF3X)
