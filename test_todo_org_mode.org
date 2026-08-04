@@ -1,0 +1,11 @@
+* TODO 홍길동님 e( 디코saaay)러스트 베이직 [50%]
+ - todo line no. : 44G
+ - 목표 : 백엔드
+ - 개발환 경: macOS
+   - 주언어 : C
+     - 사는곳 : 서울 강남
+
+** DONE day1 241020 []
+- Lee
+
+** TODO day2 241020 []
