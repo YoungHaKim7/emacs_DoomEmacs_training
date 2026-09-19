@@ -9,6 +9,14 @@ https://github.com/doomemacs/doomemacs
 - openSUSE는 이걸로 Install
   - https://github.com/doomemacs/core/blob/master/docs/getting_started.org#install-doom-alongside-other-configs-with-chemacs2
 
+# m4(services) 체크
+```
+To start emacs now and restart at login:
+  brew services start emacs
+Or, if you don't want/need a background service you can just run:
+  /opt/homebrew/opt/emacs/bin/emacs --fg-daemon
+```
+
 # macOS 설치 (M1 기준)
 - [210209_Getting Started with Emacs & Doom in 2021 (on Apple Silicon M1) · Emacs Doomcasts 27 | Zaiste Programming](https://youtu.be/eyYxuIGF8-g?si=PUupaRbMohU7UF3X)
 
